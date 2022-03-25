@@ -71,3 +71,12 @@ class _MyHomePageState extends State<MyHomePage> {
           );
   }
 }
+
+double calcularDinheiro(double dinheiro, double aumento, bool porcentagem){
+
+  if(porcentagem){
+    return dinheiro + (dinheiro * aumento / 100);
+  }
+
+  return dinheiro + aumento;
+}
