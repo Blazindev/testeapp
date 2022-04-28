@@ -1,5 +1,7 @@
 # testeapp
 
+[![Dart CI](https://github.com/Leo18ss/testeapp/actions/workflows/dart.yml/badge.svg)](https://github.com/Leo18ss/testeapp/actions/workflows/dart.yml)
+
 A new Flutter project.
 
 ## Getting Started
