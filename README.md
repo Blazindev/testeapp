@@ -1,15 +1,25 @@
-# testeapp
+# TesteApp
 
 [![Dart CI](https://github.com/Leo18ss/testeapp/actions/workflows/dart.yml/badge.svg)](https://github.com/Leo18ss/testeapp/actions/workflows/dart.yml)
 
-A new Flutter project.
+### Esse projeto foi utilizado na disciplina de Eng. de Software no Inatel para aprendizado.
 
-## Getting Started
+## Participantes :man:
 
-This project is a starting point for a Flutter application.
+- Leonardo Silva de Souza - [E-mail para contato](leonardosilva@gec.inatel.br)
 
-A few resources to get you started if this is your first Flutter project:
+## Ferramentas utilizadas :computer:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Durante o desenvolvimento foi utilizado o [Flutter](https://flutter.dev/) que é um framework de aplicações Mobile com desenvolvimento híbrido e de fácil aprendizado, sua documentação oficial pode ser encontrada [aqui](https://docs.flutter.dev/).
+
+Dart
+
+VS Code
+
+Android Studio...
+
+## Conteudo apresentado:
+
+- [ ] Aula de Revisao de POO
+- [X] Aula de Testes de Unidade
+- [X] Aula de Testes Mock
