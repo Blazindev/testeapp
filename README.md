@@ -12,11 +12,30 @@
 
 #### Durante o desenvolvimento foi utilizado o [Flutter](https://flutter.dev/) que é um framework de aplicações Mobile com desenvolvimento híbrido e de fácil aprendizado, sua documentação oficial pode ser encontrada [aqui](https://docs.flutter.dev/).
 
-Dart
+#### Para instalar o Flutter, voce pode baixado de sua pagina oficial aqui: [Windows Download](https://docs.flutter.dev/get-started/install/windows)
 
-VS Code
+#### Em caso de instação para Linux, via terminal, rode o comando:
 
-Android Studio...
+```
+  sudo snap install flutter --classic
+```
+
+## Execução :wrench:
+
+### Para executar a gerencia de dependências, use do comando
+```
+  flutter pub get
+```
+### Para executar a aplicação, use do comando
+```
+  flutter run
+```
+### Para executar as rotinas de teste, use do comando
+```
+  flutter test
+```
+
+
 
 ## Conteudo apresentado:
 
